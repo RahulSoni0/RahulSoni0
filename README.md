@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Soni @RahulSoni0
 - 👀 I’m interested in Graphic designing , video editing and gaming.
-- 🌱 I’m currently learning java 
+- 🌱 java , c .
 
 
 <!---
