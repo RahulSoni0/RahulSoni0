@@ -1,9 +1,15 @@
-<h1 align="center">Hi 👋, I'm Rahul Soni</h1>
+
+<div align="center">
+<img width="100%" height = "250px" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="cover" />
+</div>
+<h1 align="center">"Hello world!" 👋🏻, I'm Rahul Soni</h1>
 <h3 align="center">A Beginner , trying-out and learning new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsoni0&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsoni0" /> </p>
 
-- 🌱 I’m currently learning **Android development , Sql**
+- 🌱 I’m currently learning **Android development , Sql , kotlin**
+
+- 🤝 I'm eager to know about **opportunities which will help me in expanding my potential.** 
 
 - 📫 How to reach me **rahul.kumar.soni2511@gmail.com**
 
