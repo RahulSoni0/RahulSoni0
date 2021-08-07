@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "250px" src="https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv" alt="cover" />
+<img width="100%" height = "250px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="cover" />
 </div>
 <h1 align="center">"Hello world!" 👋🏻, I'm Rahul Soni</h1>
 <h3 align="center">A Beginner , trying-out and learning new things</h3>
