@@ -2,7 +2,7 @@
 <div align="center">
 <img width="100%" height = "250px" src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" alt="cover" />
 </div>
-<h1 align="center">"Hello world!" 👋🏻, I'm Rahul Soni</h1>
+<h1 align="center">"Hello world!" 👋🏻<img src="https://github.com/Riya-Panhotra/Riya-Panhotra/blob/main/image/Developer.gif?raw=true" width="48px">, I'm Rahul Soni</h1>
 <h3 align="center">A Beginner , trying-out and learning new things</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsoni0&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsoni0" /> </p>
@@ -33,6 +33,8 @@
 <a href="https://github.com/rahulsoni0/rahulsoni0"><img alt=" Rahul's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rahulsoni0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/Ashish2030/Ashish2030/blob/main/github-contribution-grid-snake.svg)
+<p align="Center" ><img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" height="230px" width ="230px"></p>
+
 
 
 <!-- ![Metrics](https://metrics.lecoq.io/Riya-Panhotra?template=classic&isocalendar=1&languages=1&introduction=1&isocalendar.duration=halfyear&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=false&config.timezone=Asia%2FCalcutta) -->
