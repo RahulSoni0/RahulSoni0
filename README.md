@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulsoni0&label=Profile%20views&color=0e75b6&style=flat" alt="rahulsoni0" /> </p>
 
-- 🌱 I’m currently learning **Android development , Sql , kotlin**
+- 🌱 I’m currently learning **Android development , Sql , Blockchain**
 
 - 🤝 I'm eager to know about **opportunities which will help me in expanding my potential.** 
 
