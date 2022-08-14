@@ -1,5 +1,6 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-smile.gif?1531849430" width="30"/> Hello World, I'm Rahul Soni</h1>
-<h3 align="center"> check out [LearnDroid](https:learndroid.hashnode.dev)</h3>
+<h3 align="center"> check out LearnDroid (https://learndroid.hashnode.dev)
+</h3>
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=rahulsoni0&color=0e75b6)
 
