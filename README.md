@@ -28,15 +28,17 @@ and here
 
 <h3 align="left">⭐ Programming Languages Working💬</h3>
 
-| Java | C  | JS | Kotlin |
-|-----------|-----------|-----------|-----------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> |
+| Java | C  |  Kotlin |
+|-----------|-----------|-----------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Android" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="Android" width="40" height="40"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> |
 
 <h3 align="left">⭐ Development Side Working 💻</h3>
+<!-- <h3 align="center">Web Development 💻 </h3> -->
 
-|<h3 align="center">Mobile App Development 📱</h3>| <h3 align="center">Web Development 💻 </h3> |
+<!-- src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/></p> -->
+|<h3 align="center">Mobile App Development 📱</h3>|  |
 |:------------------------------------------------:|:-----------------------------------------:|
-| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Android" width="40" height="40"/></p> | <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="Android" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="Android" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="Android" width="40" height="40"/></p> |
+| <p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="Android" width="35" height="35"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Android" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Android" width="40" height="40"/></p>  |
 
 <h3 align="left">⭐ Tools ⚙️ </h3>
 
