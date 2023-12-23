@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning Data Structures and Algorithms (Java) 
 - 🤔 I’m looking for intern  in Native App Development / SDE .
--  Android dev Intern @Shoutal , ex-Android intern @Androxus
+-  Android dev @Swiggy x - Shoutal , Androxus
 - 💬 Ask me about anything
 - 📫 How to reach me: rahul.kumar.soni2511@gmail.com
 - ⚡ Fun fact: Tell Tommorow 
